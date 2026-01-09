@@ -19,3 +19,4 @@ A responsive, and high-performance fashion landing page built with **React.js** 
 * **Animations:** Framer Motion
 
 ## Getting Started
+[View Little Fashion Live](https://little-fashion-orcin.vercel.app/)
